@@ -1,4 +1,7 @@
 body {
-    background-color: black;
-    color: pink;
+    background-image: url(images/tonny-tran-F8sCVSW4t4E-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
 }
