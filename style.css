@@ -1,7 +1,54 @@
+img {
+    width: 500px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+   position: static;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 350px;
+   
+  }
+#box {border-style: solid;
+    border-bottom: white;
+     border-color: rosybrown;
+     background: rosybrown;
+     height: 200px;
+     margin: 0;
+
+}
+.border{
+    border-style: dashed;
+    border-color: white;
+    padding: 20px;
+}
+
+#p1{
+    border-bottom: hidden;
+}
+#p2{
+    border-top: hidden;
+}
+
+p{
+    padding: 15px;
+}
+
 body {
-    background-image: url(images/tonny-tran-F8sCVSW4t4E-unsplash.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+
+   background-color:  mistyrose;
    
 }
+div {
+    background-color: RGBA(255, 255, 255, .5);
+   padding: 25px;
+   margin: 0 px;
+}
+
+#paragraphs {padding: 200px;
+
+}
+
+
+
